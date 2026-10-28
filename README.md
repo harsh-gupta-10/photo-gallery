@@ -3,7 +3,7 @@
 A responsive, accessible photo gallery application built with React, Vite, and Tailwind CSS v4. Photos are fetched from the Picsum API, with instant real-time author search and favourite toggling persisted across sessions.
 
 ## Live Demo
-- Cloudflare Deployment: *(Deploying...)*
+- Cloudflare Deployment: [https://photo-gallery.harshgupta24716.workers.dev](https://photo-gallery.harshgupta24716.workers.dev)
 - GitHub Repository: [https://github.com/harsh-gupta-10/photo-gallery](https://github.com/harsh-gupta-10/photo-gallery)
 
 ## Features
